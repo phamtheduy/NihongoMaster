@@ -59,4 +59,8 @@ I may update our Privacy Policy from time to time. Thus, you are advised to revi
 
 **Contact Us**
 
+<<<<<<< HEAD
 If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me.
+=======
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me.
+>>>>>>> 836dc37585bdf4d894cccf8b74fe565c04e94ccd
